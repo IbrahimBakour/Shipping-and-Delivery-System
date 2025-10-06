@@ -60,6 +60,5 @@ The system is built as a console-based Java application with modular architectur
 ---
 
 ## 👤 Author
-**Your Name**  
 [LinkedIn](https://www.linkedin.com/in/ibrahim-bakour)  
 [GitHub](https://github.com/IbrahimBakour)
